@@ -1,0 +1,111 @@
+.body {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+
+.navbar-custom {
+    background-color: #153D28 !important;
+}
+
+.brand-style {
+    font-weight: 700;
+}
+
+.carrousel-img-size {
+    width: 80%;
+}
+
+.section-somos {
+    background-color: #DAE9F0;
+    padding: 3rem 10rem 3rem 10rem;
+    
+}
+
+.section-servicios {
+    background-color: #fde5c3;
+    padding: 3rem 10rem 3rem 10rem;
+}
+
+.section-title {
+    font-weight: 700;
+    text-align: center;
+    padding-bottom: 1rem;
+}
+
+
+.services-align {
+    text-align: center;
+}
+
+.service-title {
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+
+.section-service-icon {
+    color: #353531;
+    font-size: 3rem;
+    margin: 2rem 0 1rem 0;
+}
+
+
+.section-reserva {
+    background-repeat: no-repeat;
+    background-image: url('../img/reserva.png');
+    color: white;
+    height: 100vh;
+    padding-top: 3rem;
+}
+
+.section-pide {
+    background-repeat: no-repeat;
+    background-image: url('../img/entrega.png');
+    height: 100vh;
+    padding-top: 3rem;
+}
+
+.btn-light, .btn-light:hover, .btn-light:active, .btn-light:visited {
+    background-color: #D6BBB0 !important;
+}
+
+#reserva-pide {
+    background-color: #F6FBFF;
+    padding: 3rem 0 3rem 0;
+}
+
+.img-size-col {
+    width: 100%;
+}
+
+#footer {
+    background-color: #CF3846;
+    color: #DAE9F0;
+    padding: 3rem 0 3rem 0;
+}
+
+.text1-footer {
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.reserva-padding {
+    padding-bottom: 2rem;
+}
+
+.social-section {
+    padding-left: 2rem;
+}
+
+.social-icon {
+    color: #DAE9F0;
+    font-size: 3rem;
+    padding-top: 1rem;
+}
+
+.contact-section {
+    padding: 2rem;
+}
+
+.contact-icon {
+    font-size: 1.7rem;
+}
