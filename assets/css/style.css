@@ -3,12 +3,43 @@
     font-weight: 300;
 }
 
+p {
+    font-family: 'Lato', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+
 .navbar-custom {
     background-color: #153D28 !important;
+    font-size: 1.5rem;
 }
 
 .brand-style {
+    font-size: 1.87rem;
     font-weight: 700;
+}
+
+
+.bienvenidos-photo {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: relative;
+}
+
+.bienvenidos-title {
+    font-family: 'Great Vibes', cursive;
+    font-size: 9rem;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.btn-custom {
+    background-color: #CF3846 !important;
+    float: right;
+    font-size: 1.5rem;
+    padding: 0.2rem 2rem 0.2rem 2rem;
 }
 
 .carrousel-img-size {
@@ -17,19 +48,37 @@
 
 .section-somos {
     background-color: #DAE9F0;
-    padding: 3rem 10rem 3rem 10rem;
+    padding: 3rem 10rem 6rem 10rem;
     
 }
 
 .section-servicios {
-    background-color: #fde5c3;
+    background-color: #FDE5C3;
     padding: 3rem 10rem 3rem 10rem;
 }
 
+.section-biblioteca {
+    background-color: #DAE9F0;
+    padding: 7rem 10rem 7rem 10rem;
+}
+
+.servicios-img {
+    width: 90%;
+}
+
 .section-title {
-    font-weight: 700;
-    text-align: center;
+    font-family: 'Great Vibes', cursive;
+    font-size: 3rem;
+    font-weight: 400;
     padding-bottom: 1rem;
+}
+
+.section-title-2 {
+    font-family: 'Great Vibes', cursive;
+    font-size: 3rem;
+    font-weight: 400;
+    padding-bottom: 2rem;
+    text-align: center;
 }
 
 
@@ -77,10 +126,15 @@
     width: 100%;
 }
 
-#footer {
+#suscribirse {
     background-color: #CF3846;
     color: #DAE9F0;
-    padding: 3rem 0 3rem 0;
+    padding: 5rem 20rem 3rem 20rem;
+}
+
+.suscribete {
+    padding-left: 10rem;
+    padding-right: 10rem;
 }
 
 .text1-footer {
@@ -108,4 +162,10 @@
 
 .contact-icon {
     font-size: 1.7rem;
+}
+
+.footer {
+    background-color: #353531;
+    color: #DAE9F0;
+    padding: 3rem 1rem 5rem 1rem;
 }
